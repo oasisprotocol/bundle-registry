@@ -5,6 +5,12 @@ bundle discovery and distribution.
 
 ## List of Bundles
 
+### Mainnet
+
+| Bundle                                                                                                              | Manifest Hash                                                    |
+| ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [Sapphire 0.8.2](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v0.8.2/sapphire-paratime.orc) | e523903e480a8bef7caf18b846aefaa17913878b67eee13ac618849dd0bb8741 |
+
 ### Testnet
 
 | Bundle                                                                                                                              | Manifest Hash                                                    |
