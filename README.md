@@ -16,6 +16,7 @@ bundle discovery and distribution.
 | Bundle                                                                                                                              | Manifest Hash                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [Sapphire 0.9.0-testnet](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v0.9.0-testnet/sapphire-paratime.orc) | 7af652553a1fe1e2b2ec4535458eed4dd760cce1dd4df00c30b164523ecd674e |
+| [Sapphire 0.9.1-testnet](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v0.9.1-testnet/sapphire-paratime.orc) | 30e8e286c45ef0b5381fbcf5ff3e3532ed763ef18e6de736fe15013d482e030d |
 
 ## Verify Metadata
 
