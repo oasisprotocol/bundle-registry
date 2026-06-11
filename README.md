@@ -25,6 +25,7 @@ bundle discovery and distribution.
 
 | Bundle                                                                                                                                | Manifest Hash                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [Sapphire 1.3.0-testnet](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v1.3.0-testnet/sapphire-paratime.orc)   | e264c19e522a51dee0b517e7af1d3598bb86f283866c89ebe7f2ce44f424c525 |
 | [Sapphire 1.2.0-testnet](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v1.2.0-testnet/sapphire-paratime.orc)   | 405f49a4f1b6cda397da07e8ab49d8c708f0e8c99a016ea8fad328d07c38b627 |
 | [Sapphire 1.1.2-testnet](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v1.1.2-testnet/sapphire-paratime.orc)   | e230252d95ea8e224ba6778a85cea2f0c6d04fc56aa39ae21ff8d18e8a705ae9 |
 | [Sapphire 1.1.1-testnet](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v1.1.1-testnet/sapphire-paratime.orc)   | dddf1d74edf05b7faf1844c04e8b6e9dfe55ea76c6663872fdd75e5e4adea0c1 |
@@ -37,6 +38,7 @@ bundle discovery and distribution.
 | [Sapphire 0.9.2-testnet](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v0.9.2-testnet/sapphire-paratime.orc)   | ff9ab01f1a5a043c3b105a67691fbd2223b76136be734c6a322493ce9f3a7280 |
 | [Sapphire 0.9.1-testnet](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v0.9.1-testnet/sapphire-paratime.orc)   | 30e8e286c45ef0b5381fbcf5ff3e3532ed763ef18e6de736fe15013d482e030d |
 | [Sapphire 0.9.0-testnet](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v0.9.0-testnet/sapphire-paratime.orc)   | 7af652553a1fe1e2b2ec4535458eed4dd760cce1dd4df00c30b164523ecd674e |
+| [Cipher 3.7.1-testnet](https://github.com/oasisprotocol/cipher-paratime/releases/download/v3.7.1-testnet/cipher-paratime.orc)         | 4aa5207776dc05c039772195505d70fb158d401c2a92503adf9ed1796d5b7b8e |
 | [Cipher 3.6.0-testnet](https://github.com/oasisprotocol/cipher-paratime/releases/download/v3.6.0-testnet/cipher-paratime.orc)         | 6d5e78313cb19040d9de20a830a4022a97e6e42ede195ac7d2cf5821606b7569 |
 | [Cipher 3.5.2-testnet](https://github.com/oasisprotocol/cipher-paratime/releases/download/v3.5.2-testnet/cipher-paratime.orc)         | 145962740deff8ffb62378ec8603af729bcbaa66e9c4f21ed9a45230fd37807f |
 | [Cipher 3.5.1-testnet](https://github.com/oasisprotocol/cipher-paratime/releases/download/v3.5.1-testnet/cipher-paratime.orc)         | ae1af084206e7aa72776b8c9fe05377a35cf21db8e6e581754d254d6a0b5615a |
