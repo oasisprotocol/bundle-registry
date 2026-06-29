@@ -9,12 +9,14 @@ bundle discovery and distribution.
 
 | Bundle                                                                                                                | Manifest Hash                                                    |
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [Sapphire 1.3.0](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v1.3.0/sapphire-paratime.orc)   | 5973afffafd69abe35c7ebe983e2d1c03cbfb7088f6ce8fa4797ff7c83802cd3 |
 | [Sapphire 1.2.0](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v1.2.0/sapphire-paratime.orc)   | de640b01438ea5f22816693dcd565c6b15df4e45849665cf74a483f3310764bc |
 | [Sapphire 1.1.2](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v1.1.2/sapphire-paratime.orc)   | afa7a5da41b0844fe91c49cd63cc12240b052efe546cbc1602be465274d20725 |
 | [Sapphire 1.0.0](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v1.0.0/sapphire-paratime.orc)   | b660d02a394aafa14a3ffc2cb2e3ab389bd65e0a5da07f3b9fa02cf7d8466e07 |
 | [Sapphire 0.10.3](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v0.10.3/sapphire-paratime.orc) | b3e0b1f1085d797358c1a7e098b30e05c56b8bc5f39a5c6af10597aaa754d28f |
 | [Sapphire 0.9.2](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v0.9.2/sapphire-paratime.orc)   | 91b1ff8b5cc9f6a99e97be9c69f22d73d75e037b8bbca7fda64a7a41bc997841 |
 | [Sapphire 0.8.2](https://github.com/oasisprotocol/sapphire-paratime/releases/download/v0.8.2/sapphire-paratime.orc)   | e523903e480a8bef7caf18b846aefaa17913878b67eee13ac618849dd0bb8741 |
+| [Cipher 3.7.1](https://github.com/oasisprotocol/cipher-paratime/releases/download/v3.7.1/cipher-paratime.orc)         | 927798e571a88c2a445d3ee84746bdaa2621ec64960f26f5667a78e166c04e47 |
 | [Cipher 3.6.0](https://github.com/oasisprotocol/cipher-paratime/releases/download/v3.6.0/cipher-paratime.orc)         | 3ac73c59cbdcf0e9d2218e3d1a4e0a2d702f21d714301b5c3ec7556ff6a69b01 |
 | [Cipher 3.5.2](https://github.com/oasisprotocol/cipher-paratime/releases/download/v3.5.2/cipher-paratime.orc)         | 9f7cd0ad780840a1a83b5653409f9c8de7ad93ca85863e7acd9269094f4cfd43 |
 | [Cipher 3.4.0](https://github.com/oasisprotocol/cipher-paratime/releases/download/v3.4.0/cipher-paratime.orc)         | 6e4f58b24736486523af93f48cbc212178c656dd25c56c9b31c4c2434c928840 |
